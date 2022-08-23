@@ -4,6 +4,7 @@
 - **E-mail:**Kononov510@gmil.com
 - **Telegram:**@infernyaCr
 - **GitHub:**[InfernYaCr](https://github.com/InfernYaCr)
+- **Discord:**Denis(@InfernYaCr)
 ## About myself:
 Currently, I work at TGC-2 as a specialist in regulatory and reference information. I am developing a SCADA-system for fuel control.
 My dream is to become a frontend developer.
