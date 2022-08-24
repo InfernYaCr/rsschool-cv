@@ -29,4 +29,4 @@ function multiply(a, b){
 
 ## Languages
 - Russian - Native
-- Russian - A1
+- English - A1
