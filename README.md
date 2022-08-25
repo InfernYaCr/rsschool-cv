@@ -1,1 +1,1 @@
-https://InfernYaCr.github.io/rsschool-cv/cv
+https://InfernYaCr.github.io/rsschool-cv/
